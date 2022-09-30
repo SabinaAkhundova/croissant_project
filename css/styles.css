@@ -27,9 +27,9 @@ footer a {
 .order-link {
   color: rgb(244, 97, 6);
 }
-@media (max-width: 375px) {
+@media (max-width: 370px) {
   .photo-header {
-    font-size: 25px;
+    font-size: 20px;
   }
   .croissant-photo {
     max-width: 80%;
